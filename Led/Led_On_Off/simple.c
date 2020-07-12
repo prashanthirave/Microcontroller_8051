@@ -1,10 +1,10 @@
 /************************************************
 
-* Organisation Name		: Dot Hex Pvt. Ltd.
+* Organisation Name		: Dot Hex Technology.
 * Developer Name		: Prashant P. Hirave.
 * Controller			: At89C51RD2
-* IDE					: Keil4, Keil5.
-* Language				: Embedded C. 
+* IDE				: Keil4, Keil5.
+* Language			: Embedded C. 
 
 *************************************************/
 
